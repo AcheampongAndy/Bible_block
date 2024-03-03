@@ -1,6 +1,6 @@
 # Bible Block
 
-Bible Block is a user-friendly platform designed to explore, read, and engage with the content of the Bible. This project aims to provide a simplified and streamlined experience for users interested in studying the Bible, churches seeking digital tools for outreach, and educators incorporating biblical studies into their curriculum.
+Bible Block represents my individual research and portfolio project, a pivotal requirement for the successful completion of the Software Engineering program at ALX. The primary objective of this project is to develop a user-friendly platform facilitating exploration, reading, and active engagement with the rich content of the Bible.
 
 ## Features
 
