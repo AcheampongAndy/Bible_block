@@ -4,19 +4,19 @@ Bible Block is a user-friendly platform designed to explore, read, and engage wi
 
 ## Features
 
-**Verse Exploration:** Navigate through various Bible books, chapters, and versions to explore specific verses.
-**User Registration:** Create a personalized account to access features like annotations and preferences.
-**Annotation Feature:** Highlight and add personal annotations to specific Bible verses for future reference.
-**Search Functionality:** Search for specific verses or topics within the Bible for efficient exploration.
-**Cross-Platform Access:** Enjoy a consistent user experience across different devices, including desktops, tablets, and mobile devices.
+*	**Verse Exploration:** Navigate through various Bible books, chapters, and versions to explore specific verses.
+*	**User Registration:** Create a personalized account to access features like annotations and preferences.
+*	**Annotation Feature:** Highlight and add personal annotations to specific Bible verses for future reference.
+*	**Search Functionality:** Search for specific verses or topics within the Bible for efficient exploration.
+*	**Cross-Platform Access:** Enjoy a consistent user experience across different devices, including desktops, tablets, and mobile devices.
 
 ## Technologies Used
 
-*Python:* Backend development and server-side scripting.
-*Flask:* Web framework for building the backend of the application.
-*HTML, CSS, JavaScript:* Frontend development for user interfaces and interactions.
-*Trello:* Project management tool for task tracking and collaboration.
-*APIs:* Integration with a third-party Bible API for comprehensive Bible data.
+*	*Python:* Backend development and server-side scripting.
+*	*Flask:* Web framework for building the backend of the application.
+*	*HTML, CSS, JavaScript:* Frontend development for user interfaces and interactions.
+*	*Trello:* Project management tool for task tracking and collaboration.
+*	*APIs:* Integration with a third-party Bible API for comprehensive Bible data.
 
 ## Getting Started
 
@@ -45,7 +45,7 @@ python app.py
 
 
 ##Project Structure
-*/static:* Contains static assets such as CSS and JavaScript files.
-*/templates:* Includes HTML templates for the frontend.
-*/tests:* Houses unit tests and integration tests for the application.
-*app.py:* Main entry point for the Flask application.
+*	*/static:* Contains static assets such as CSS and JavaScript files.
+*	*/templates:* Includes HTML templates for the frontend.
+*	*/tests:* Houses unit tests and integration tests for the application.
+*	*app.py:* Main entry point for the Flask application.
