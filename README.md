@@ -44,7 +44,7 @@ python app.py
 *Access the application in your web browser at http://localhost:5000.*
 
 
-##Project Structure
+## Project Structure
 *	*/static:* Contains static assets such as CSS and JavaScript files.
 *	*/templates:* Includes HTML templates for the frontend.
 *	*/tests:* Houses unit tests and integration tests for the application.
