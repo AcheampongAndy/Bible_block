@@ -1,8 +1,8 @@
-#Bible Block
+# Bible Block
 
 Bible Block is a user-friendly platform designed to explore, read, and engage with the content of the Bible. This project aims to provide a simplified and streamlined experience for users interested in studying the Bible, churches seeking digital tools for outreach, and educators incorporating biblical studies into their curriculum.
 
-##Features
+## Features
 
 **Verse Exploration:** Navigate through various Bible books, chapters, and versions to explore specific verses.
 **User Registration:** Create a personalized account to access features like annotations and preferences.
@@ -10,7 +10,7 @@ Bible Block is a user-friendly platform designed to explore, read, and engage wi
 **Search Functionality:** Search for specific verses or topics within the Bible for efficient exploration.
 **Cross-Platform Access:** Enjoy a consistent user experience across different devices, including desktops, tablets, and mobile devices.
 
-##Technologies Used
+## Technologies Used
 
 *Python:* Backend development and server-side scripting.
 *Flask:* Web framework for building the backend of the application.
@@ -18,25 +18,28 @@ Bible Block is a user-friendly platform designed to explore, read, and engage wi
 *Trello:* Project management tool for task tracking and collaboration.
 *APIs:* Integration with a third-party Bible API for comprehensive Bible data.
 
-##Getting Started
+## Getting Started
 
 Follow these steps to set up and run the Bible Block project locally:
 
-##Prerequisites
+## Prerequisites
 
 Make sure you have Python installed on your machine.
 *Clone the repository to your local machine.*
 ```
 git clone https://github.com/your-username/bible-block.git
-cd bible-block ```
+cd bible-block
+```
 
 *Install the required dependencies.*
 ```
-pip install -r requirements.txt ```
+pip install -r requirements.txt 
+```
 
 *Run the application.*
 ```
-python app.py ```
+python app.py 
+```
 
 *Access the application in your web browser at http://localhost:5000.*
 
