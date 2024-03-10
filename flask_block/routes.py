@@ -196,7 +196,7 @@ def reset_request():
 
 
 @app.route("/reset_password/<token>", methods=['GET', 'POST'])
-def reset_token():
+def reset_token(token):
     if current_user.is_authenticated:
         return redirect(url_for('home'))
     with app.app_context():
@@ -206,6 +206,7 @@ def reset_token():
             return redirect(url_for('reset_request'))
         form = ResetPasswordForm()
         if form.validate_on_submit():
+            user = User.query.filter_by(id=user.id).first()
             hashed_password = bcrypt.generate_password_hash(form.password.data).decode('utf-8')
             user.password = hashed_password
             db.session.commit()
